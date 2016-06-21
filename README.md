@@ -8,6 +8,9 @@ terms of the Do What The Fuck You Want To Public License, Version 2,
 as published by Sam Hocevar. See the COPYING file for more details.
 
 # Description
+All examples can be found in the "examples" folder. The src folder just provides
+a dummy as platformio complains otherwise.
+
 ## SI7021
 Reads the temperature and humidity sensor "SI7021"
 
